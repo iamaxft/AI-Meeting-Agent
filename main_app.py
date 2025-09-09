@@ -10,11 +10,11 @@ from extensions import db, bcrypt, login_manager
 from models import User, Team, TrelloCredentials, TrelloCard
 
 # --- CONFIGURATION ---
-TRELLO_API_KEY = "f4fa3a09b3308b68263da619dc1e00a8"
-TRELLO_API_SECRET = "6359f7707fed6d520c2d4eb5b3719339ab782008b28338228cc99cd2b681c733"
-GEMINI_API_KEY = "AIzaSyCA0FLzbvar7ww3ffKbcVmhjYy8S5mu6dU"
-SENDER_EMAIL = "skfourcc@gmail.com"  # For sending emails
-SENDER_PASSWORD = "hmhc ucjk fwtn kxzd"  # Google App Password
+TRELLO_API_KEY = 
+TRELLO_API_SECRET = 
+GEMINI_API_KEY = 
+SENDER_EMAIL =  # For sending emails
+SENDER_PASSWORD =  # Google App Password
 
 
 def create_app():
