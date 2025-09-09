@@ -45,7 +45,7 @@ Setup and Installation
 Follow these steps to get the project running on your local machine.
 
 1. Clone the Repository
-git clone https://github.com/your-username/AI-Meeting-Agent.git
+git clone https://github.com/iamaxft/AI-Meeting-Agent.git
 cd AI-Meeting-Agent
 
 2. Create a Virtual Environment
